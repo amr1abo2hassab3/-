@@ -8,13 +8,13 @@ const Sec1 = () => {
     <section className="Sec1">
       <div className="container">
         <div className="row">
-          <div className="col-lg-6 col-md-6 col-sm-12">
+          {/* <div className="col-lg-6 col-md-6 col-sm-12">
             <div className="img_sec1">
               <img src={photo1} alt="صباغ بالكويت" />
             </div>
-          </div>
+          </div> */}
 
-          <div className=" col-lg-6 col-md-6 col-sm-12">
+          <div className=" col-lg-12 col-md-12 col-sm-12">
             <div className="text_sec1">
               <h1 className="mt-3">صباغ بالكويت</h1>
               <CallMe />
