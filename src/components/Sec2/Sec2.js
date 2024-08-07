@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import imgsec2 from "../../media/headimg.52bab7066d4da8fab79d.png";
-import img1 from "../../media/engineer.36a1a111d803ea6f6a04.png";
+// import img1 from "../../media/engineer.36a1a111d803ea6f6a04.png";
 import CallMe from "../callme/CallMe";
 import WhatsApp from "../whatsApp/Whats";
 import "./Sec2.css";
@@ -18,7 +18,7 @@ const Sec2 = () => {
             <h2> صباغ الكويت </h2>
 
             <article className="info">
-              <img src={img1} alt="صباغ بالكويت" title="صباغ رخيص" />
+              {/* <img src={img1} alt="صباغ بالكويت" title="صباغ رخيص" /> */}
               <h1>
                 صباغ الكويت <span className="numerPhobe">96594903036</span> صباغ
                 شاطر ورخيص عن تجربة احصل على خصم 50% الان مع{" "}
@@ -49,7 +49,7 @@ const Sec2 = () => {
                   بشكل مثالي ومميز.
                 </span>
               </p>
-              <img src={img1} alt="صباغ بالكويت" title="فني صباغ" />
+              {/* <img src={img1} alt="صباغ بالكويت" title="فني صباغ" /> */}
             </article>
           </div>
           <div className="box">
@@ -71,7 +71,7 @@ const Sec2 = () => {
                   إليها وذوق خاص به.
                 </span>
               </p>
-              <img src={img1} alt="صباغ بالكويت" title="صباغ في الكويت" />
+              {/* <img src={img1} alt="صباغ بالكويت" title="صباغ في الكويت" /> */}
             </article>
           </div>
           <div className="box">
@@ -98,7 +98,7 @@ const Sec2 = () => {
                   الحديثة التي تتماشى مع ديكورات عصرنا هذا.
                 </span>
               </p>
-              <img src={img1} alt="فني صباغ" title="معلم صباغ" />
+              {/* <img src={img1} alt="فني صباغ" title="معلم صباغ" /> */}
             </article>
           </div>
 
@@ -169,7 +169,7 @@ const Sec2 = () => {
                   </span>
                 </li>
               </ol>
-              <img src={img1} alt=" مميزات صباغ الكويت" title="أفضل صباغ" />
+              {/* <img src={img1} alt=" مميزات صباغ الكويت" title="أفضل صباغ" /> */}
             </article>
           </div>
 
@@ -217,7 +217,7 @@ const Sec2 = () => {
                   </span>
                 </li>
               </ol>
-              <img src={img1} alt="صباغ شاطر صباغ رخيص" title="صباغ ممتاز" />
+              {/* <img src={img1} alt="صباغ شاطر صباغ رخيص" title="صباغ ممتاز" /> */}
             </article>
           </div>
 
@@ -239,7 +239,7 @@ const Sec2 = () => {
                 وبطريقة احترافية كل ذلك بأفضل الأسعار المتاحة وباقل التكاليف
                 الممكنة فنحن نعمل على راحه عملائنا الكرام.
               </p>
-              <img src={img1} alt=" صباغ ممتاز" title="صباغ شاطر" />
+              {/* <img src={img1} alt=" صباغ ممتاز" title="صباغ شاطر" /> */}
             </article>
           </div>
 
@@ -263,7 +263,7 @@ const Sec2 = () => {
                   التي يقدمها، أنه يتميز أيضا باسعاره الرخيصة.
                 </span>
               </p>
-              <img src={img1} alt=" صباغ رخيص" title="صباغ رخيص" />
+              {/* <img src={img1} alt=" صباغ رخيص" title="صباغ رخيص" /> */}
             </article>
           </div>
           <div className="box">
@@ -287,7 +287,7 @@ const Sec2 = () => {
                 لشخصيتك فمثلا اذا كنت من الشخصيات الكلاسيكية يختار لك ما يتماشي
                 معك حتى تشعر بالرضا والراحة التامة عند الجلوس في المنزل.
               </p>
-              <img src={img1} alt="صباغ في الكويت" title="صباغ في الكويت" />
+              {/* <img src={img1} alt="صباغ في الكويت" title="صباغ في الكويت" /> */}
             </article>
           </div>
           <div className="box">
@@ -319,7 +319,7 @@ const Sec2 = () => {
                 يقدمها.
               </p>
               <img
-                src={img1}
+                // src={img1}
                 alt="أفضل صباغ في الكويت"
                 title="صباغ الاندلس الكويت"
               />
@@ -356,7 +356,7 @@ const Sec2 = () => {
                 ن تفيدك بها الصباغ المحترف، تواصل معه واحصل على أفضل التصميمات
                 الرائعة.
               </p>
-              <img src={img1} alt=" معلم صباغ" title="معلم صباغ" />
+              {/* <img src={img1} alt=" معلم صباغ" title="معلم صباغ" /> */}
             </article>
           </div>
           <div className="box">
@@ -388,7 +388,7 @@ const Sec2 = () => {
                   الروعة والجمال.
                 </span>
               </p>
-              <img src={img1} alt=" أفضل صباغ" title=" افضل صباغ الكويت" />
+              {/* <img src={img1} alt=" أفضل صباغ" title=" افضل صباغ الكويت" /> */}
             </article>
           </div>
           <div className="box">
@@ -410,7 +410,7 @@ const Sec2 = () => {
                 بالأحترافية الشديدة وتكون على ثقة أنك سوف تحصل على منزل فخم بعد
                 القيام بتشطيبه.
               </p>
-              <img src={img1} alt=" رقم صباغ" title="رقم صباغ " />
+              {/* <img src={img1} alt=" رقم صباغ" title="رقم صباغ " /> */}
             </article>
           </div>
           <div className="box">
@@ -426,7 +426,7 @@ const Sec2 = () => {
                   وهي كالتالي:
                 </span>
               </p>
-              <img src={img1} alt=" معلم صباغ" title=" معلم صباغ" />
+              {/* <img src={img1} alt=" معلم صباغ" title=" معلم صباغ" /> */}
             </article>
             <ul className="me-4">
               <li aria-level="1" className="mt-2">
@@ -484,7 +484,7 @@ const Sec2 = () => {
                   بالعبء المادي، تواصل مع وسوف تحصل على خدمات فريدة وايضا رخيصة.{" "}
                 </span>
               </p>
-              <img src={img1} alt="صباغ رخيص في الكويت" title="صباغ رخيص" />
+              {/* <img src={img1} alt="صباغ رخيص في الكويت" title="صباغ رخيص" /> */}
             </article>
           </div>
 
@@ -506,7 +506,7 @@ const Sec2 = () => {
                 ارضاء كل العملاء .
               </p>
               <img
-                src={img1}
+                // src={img1}
                 alt="ارقام صباغ الكويت"
                 title="ارقام صباغ الكويت"
               />
@@ -527,7 +527,7 @@ const Sec2 = () => {
                   عنه العميل من افضل الخدمات و احدث الديكورات و افضل الاسعار
                 </p>
               </p>
-              <img src={img1} alt="صباغ شاطر ورخيص" title="صباغ شاطر ورخيص" />
+              {/* <img src={img1} alt="صباغ شاطر ورخيص" title="صباغ شاطر ورخيص" /> */}
             </article>
           </div>
           <div className="box">
@@ -542,7 +542,7 @@ const Sec2 = () => {
                 احتوائها على أي نوع من الأخطاء.
               </p>
               <img
-                src={img1}
+                // src={img1}
                 alt="صباغ ممتاز الكويت"
                 title="صباغ ممتاز الكويت"
               />
@@ -559,7 +559,7 @@ const Sec2 = () => {
                 الإطلاق، فنحن نوفر لعملائنا عمالة محترفة وخامات من أجود الأنواع.
               </p>
               <img
-                src={img1}
+                // src={img1}
                 alt="معلم صباغ بالكويت"
                 title="معلم صباغ بالكويت"
               />
@@ -575,7 +575,7 @@ const Sec2 = () => {
                 العميل بغض النظر عن نوع الديكورات التي يرغب العميل في تنفيذها،
                 كما يمتلك الخبرة في إضافة تعديلات على التصميمات والديكورات.
               </p>
-              <img src={img1} alt="فني صباغ الكويت" title="فني صباغ الكويت" />
+              {/* <img src={img1} alt="فني صباغ الكويت" title="فني صباغ الكويت" /> */}
             </article>
           </div>
           <div className="box">
@@ -589,7 +589,7 @@ const Sec2 = () => {
                 الاحترافية في عمل الديكورات في الشركات والمولات التجارية وغيرها
                 من الأماكن بكفاءة واحترافية.
               </p>
-              <img src={img1} alt="أفضل صباغ الكويت" title="أفضل صباغ الكويت" />
+              {/* <img src={img1} alt="أفضل صباغ الكويت" title="أفضل صباغ الكويت" /> */}
             </article>
           </div>
           <div className="box">
@@ -603,7 +603,7 @@ const Sec2 = () => {
                 التي يطلبها العملاء عبر الهاتف.
               </p>
               <img
-                src={img1}
+                // src={img1}
                 alt="رقم صباغ شاطر بالكويت"
                 title="رقم صباغ شاطر بالكويت"
               />
@@ -623,7 +623,7 @@ const Sec2 = () => {
                 شركتنا.
               </p>
               <img
-                src={img1}
+                // src={img1}
                 alt="رقم صباغ بالكويت ورق جدران"
                 title="رقم صباغ بالكويت ورق جدران"
               />
@@ -641,7 +641,7 @@ const Sec2 = () => {
                 الأسواق لضمان تقديم خدمات متميزة لجميع العملاء.
               </p>
               <img
-                src={img1}
+                // src={img1}
                 alt="رقم صباغ بالكويت رخيص"
                 title="رقم صباغ بالكويت رخيص"
               />
@@ -660,7 +660,7 @@ const Sec2 = () => {
                 طيبة بين العملاء الذين حصلوا على الخدمة من خلاله.
               </p>
               <img
-                src={img1}
+                // src={img1}
                 alt="رقم صباغ بالكويت رخيص"
                 title="رقم صباغ بالكويت رخيص"
               />
