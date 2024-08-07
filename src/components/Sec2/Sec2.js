@@ -10,7 +10,7 @@ const Sec2 = () => {
     <section className="Sec2">
       <div className="container">
         <div className="main-title">
-          <img src={imgsec2} alt="صباغ رخيص" title="صباغ الكويت" />
+          {/* <img src={imgsec2} alt="صباغ رخيص" title="صباغ الكويت" /> */}
           <h2>اعمالنا</h2>
         </div>
         <section className="boxes">

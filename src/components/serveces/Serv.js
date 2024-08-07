@@ -4,7 +4,7 @@ const Serv = () => {
   return (
     <div className="container mt-4">
       <div className="title-serveces">
-        <img src={imgserv} />
+        {/* <img src={imgserv} /> */}
         <h2>خدماتنا</h2>
       </div>
     </div>

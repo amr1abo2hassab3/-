@@ -9,7 +9,7 @@ const Box = () => {
       <div className="box">
         <h2> صباغ الكويت </h2>
         <article className="info">
-          <img src={img1} alt="صباغ بالكويت" title="صباغ رخيص" />
+          {/* <img src={img1} alt="صباغ بالكويت" title="صباغ رخيص" /> */}
           <h4>
             صباغ الكويت <span className="numerPhobe">96594903036</span> صباغ شاطر
             ورخيص عن تجربة احصل على خصم 50% الان مع <strong>صباغ</strong> ابو
